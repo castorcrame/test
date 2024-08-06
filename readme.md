@@ -1,4 +1,4 @@
-![alt text](**https://github.com/castorcrame/test/image.png)
+![alt text](https://github.com/castorcrame/test/image.png)
 
 
 
